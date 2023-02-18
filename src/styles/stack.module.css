@@ -1,0 +1,50 @@
+.h1 {
+  margin-top: 100px;
+  margin-left: 10%;
+  font-size: 50px;
+}
+
+.gridContainer {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 75px;
+  display: grid;
+  gap: 1rem;
+}
+
+.gridCard {
+  position: relative;
+  min-height: 150px;
+  padding: 1rem 1rem 0 1rem;
+  background-color: #1f1f1f;
+  border: 1px solid #2c2c2c;
+  border-radius: 5px;
+  color: white;
+}
+
+.img {
+  display: block;
+  margin: auto;
+}
+
+.name {
+  position: absolute;
+  display: block;
+  width: calc(100% - 2rem);
+  bottom: 1rem;
+  font-size: 18px;
+  text-align: center;
+}
+
+.npmImage {
+  display: block;
+  margin: 8% auto 0 auto;
+}
+
+@media (min-width: 600px) {
+  .gridContainer { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 950px) {
+  .gridContainer { grid-template-columns: repeat(4, 1fr); }
+}
