@@ -48,3 +48,10 @@
 @media (min-width: 950px) {
   .gridContainer { grid-template-columns: repeat(4, 1fr); }
 }
+
+@media (max-width: 1200px) {
+  .h1 {
+    text-align: center;
+    margin: 100px auto 0 auto;
+  }
+}

@@ -21,9 +21,9 @@ export const projectsContent = [
   },
 
   {
-    link: "https://github.com/luckeryouknow/movie-searching-app",
+    link: "https://github.com/luckeryouknow/portfolio-website",
     linkText: "This Website",
-    description: "An app to search movies in library",
+    description: "My portfolio website",
     demo: "https://movie-searching-app.vercel.app/"
   }
 ]
