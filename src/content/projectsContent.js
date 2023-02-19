@@ -24,6 +24,6 @@ export const projectsContent = [
     link: "https://github.com/luckeryouknow/portfolio-website",
     linkText: "This Website",
     description: "My portfolio website",
-    demo: "https://movie-searching-app.vercel.app/"
+    demo: "https://vorozhbyt-portfolio.vercel.app/"
   }
 ]
