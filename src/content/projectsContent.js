@@ -14,10 +14,10 @@ export const projectsContent = [
   },
 
   {
-    link: "https://github.com/luckeryouknow/movie-searching-app",
-    linkText: "Movie App",
-    description: "An app to search movies in library",
-    demo: "https://movie-searching-app.vercel.app/"
+    link: "https://github.com/luckeryouknow/todo-app",
+    linkText: "Notes App",
+    description: "A notes app for desktops",
+    demo: "https://todo-app-vorozhbyt.vercel.app/"
   },
 
   {
