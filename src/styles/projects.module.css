@@ -69,7 +69,7 @@
 }
 
 @media (min-width: 900px) {
-  .gridContainer { grid-template-columns: repeat(4, 1fr); }
+  .gridContainer { grid-template-columns: repeat(3, 1fr); }
 }
 
 @media (max-width: 1200px) {

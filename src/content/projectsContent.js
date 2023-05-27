@@ -9,7 +9,7 @@ export const projectsContent = [
   {
     link: "https://github.com/luckeryouknow/providence-app",
     linkText: "Providence Landing",
-    description: "Made a frontend",
+    description: "Made a fully responsive frontend",
     demo: "https://providence.vercel.app/"
   },
 
@@ -18,6 +18,20 @@ export const projectsContent = [
     linkText: "Notes App",
     description: "A notes app for desktops",
     demo: "https://todo-app-vorozhbyt.vercel.app/"
+  },
+
+  {
+    link: "https://github.com/luckeryouknow/movie-searching-app",
+    linkText: "Films App",
+    description: "App to search films and some info about them",
+    demo: "https://movie-searching-app.vercel.app/"
+  },
+
+  {
+    link: "https://github.com/luckeryouknow/react-gallery",
+    linkText: "Gallery App",
+    description: "App to search pictures by keyword",
+    demo: "https://react-gallery-delta.vercel.app/"
   },
 
   {
