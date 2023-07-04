@@ -15,7 +15,7 @@ export default function About () {
           <h1 className={styles.h1}>About me</h1>
           <p className={styles.p}>
             Hi, I'm Ruslan! I'm a CS student who lives in Odessa oblast'(UA) and studies in Ternopil(UA).
-            Welcome to my web-place. You can feel yourself free to use it.
+            Programming for me is a hobby and the way to bring my ideas to reality.
           </p>
         </div>
         <Image 

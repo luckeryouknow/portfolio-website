@@ -2,7 +2,7 @@ export const projectsContent = [
   {
     link: "https://github.com/luckeryouknow/v-chat",
     linkText: "V-Chat",
-    description: "Messanger in web",
+    description: `Messanger in web. You can find me by nickname "balbes??"`,
     demo: "https://v-chat-lovat.vercel.app/"
   },
 
