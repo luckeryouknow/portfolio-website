@@ -1,9 +1,9 @@
 export const projectsContent = [
   {
-    link: "https://github.com/luckeryouknow/react-weather-project",
-    linkText: "Weather App",
-    description: "Web app to check the current weather all over the world",
-    demo: "https://codesandbox.io/s/github/luckeryouknow/react-weather-project"
+    link: "https://github.com/luckeryouknow/v-chat",
+    linkText: "V-Chat",
+    description: "Messanger in web",
+    demo: "https://v-chat-lovat.vercel.app/"
   },
 
   {
